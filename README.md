@@ -1,7 +1,7 @@
-<h1 align="center">Hey Guys! 👋, I'm Pritam</h1>
-<h3 align="center">I am a Data Scientist at Royal Cyber. I have 3 years of experience as a Data Scientist with special focus on Time Series modelling, Large Language Models and NLP.</h3>
+<h1 align="center">Hey Guys! Pritam here</h1>
 
-- 📫 How to reach me **pritam.changkakoty@hotmail.com**
+I am a Data Scientist at Royal Cyber. I have 3 years of experience as a Data Scientist with special focus on Time Series modelling, Large Language Models and NLP. Let's connect learn and share!
+
 
 
 <h3 align="left">Languages and Tools I use:</h3>
